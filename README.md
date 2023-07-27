@@ -11,31 +11,31 @@
 
 This repository collects the studies on image synthesis under limited data.
 According to the problem definition, requirements, training, and testing schemes, image synthesis under limited data can be roughly categoried into four groups: namely
-[Data-efficient generative models](#Data-efficient-generative-models),
-[Few-shot generative adaptation](Few-shot-generative-adaptation),
-[Few-shot image generation](Few-shot-image-generaion),
-and [One-shot image generation](One-shot-image-generation).
+[Data-efficient generative models](#data-efficient-generative-models),
+[Few-shot generative adaptation](few-shot-generative-adaptation),
+[Few-shot image generation](few-shot-image-generaion),
+and [One-shot image generation](one-shot-image-generation).
 
 
 Overall, this paper collection is organized as follows. *If you find some work is missing, feel free to raise an issue or create a pull request. We appreciate contributions in any form.*
 
-- [Data-efficient generative models](#Data-efficient-generative-models)
+- [Data-efficient generative models](#data-efficient-generative-models)
   - [Augmentation-based approaches](#augmentation-based)
   - [Architecture-variants](#architecture)
   - [Regularization-based approaches](#regularization)
   - [Off-the-shelf Models](#off-the-shelf)
-- [Few-shot generative adaptation](Few-shot-generative-adaptation)
+- [Few-shot generative adaptation](few-shot-generative-adaptation)
   - [Fine-tuning](#fine-tuning)
   - [Extra-branches](#extra-branches)
   - [Model Regularization](#regularization-1)
   - [Kernel modulation](#kernel-modulation)
-- [Few-shot image generation](Few-shot-image-generaion)
+- [Few-shot image generation](few-shot-image-generaion)
   - [Optimization-based](optimization-based)
   - [Transformation-based](transformation-based)
   - [Fusion-based](fusion-based)
   - [Inversion-based](inversion-based)
   - [Diffusion-based](diffusion-based)
-- [One-shot image generation](One-shot-image-generation)
+- [One-shot image generation](one-shot-image-generation)
   - [GAN-based](gan-based)
   - [Diffusion-based](diffusion-based-1)
   - [Non-parametric-based](non-parametric)
