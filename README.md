@@ -81,3 +81,6 @@ We categorize the studies on data-efficient generative models according to the m
 ### Diffusion-based
 
 ### Non-parametric-based
+
+
+*We would continuously update the relevant papers and resources, stay tuned!*
