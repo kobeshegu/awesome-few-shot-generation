@@ -3,7 +3,7 @@
 
 > **Image Synthesis under Limited Data: A Survey and Taxonomy** <br>
 > Mengping Yang, Zhe Wang*<br>
-> *https://arxiv.org/abs/xxxx.xxxx*<br>
+> *https://arxiv.org/abs/2307.16879*<br>
 > (* denotes corresponding author)
 
 
@@ -39,6 +39,7 @@ Overall, this paper collection is organized as follows. *If you find some work i
   - [GAN-based](#gan-based)
   - [Diffusion-based](#diffusion-based-1)
   - [Non-parametric-based](#non-parametric-based)
+- [Other related awesome surveys](#Other-related-awesome-surveys)
 
 
 ## Data-efficient generative models
@@ -280,6 +281,17 @@ Akin to transfer learning, the goal of few-shot generative adaptation is to tran
 [Code](https://github.com/yzhang2016/video-generation-survey)
 - Awesome Text-to-Image diffusion papers <br>
 [Code](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
-- 
+
 
 *We would continuously update the relevant papers and resources, stay tuned!*
+
+## BibTeX
+```bibtex
+@article{yang2023image,
+      title={Image Synthesis under Limited Data: A Survey and Taxonomy}, 
+      author={Mengping Yang and Zhe Wang},
+      year={2023},
+      eprint={2307.16879},
+      archivePrefix={arXiv}
+}
+```
