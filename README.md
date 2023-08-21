@@ -160,6 +160,8 @@ Akin to transfer learning, the goal of few-shot generative adaptation is to tran
   [NeurIPS Workshop 2022](https://openreview.net/forum?id=yWf4wxAUcDo) / [Code](https://github.com/mit-han-lab/data-efficient-gans)
 - WeditGAN: Few-shot Image Generation via Latent Space Relocation <br>
   [ArXiv 2023](https://arxiv.org/abs/2305.06671)
+- Smoothness Similarity Regularization for Few-Shot GAN Adaptation <br>
+  [ArXiv 2023](https://arxiv.org/abs/2308.09717)
 - Diffusion guided domain adaptation of image generators <br>
   [ArXiv 2022](https://arxiv.org/abs/2212.04473) / [Code](https://github.com/KunpengSong/styleganfusion)
 
@@ -207,6 +209,8 @@ Akin to transfer learning, the goal of few-shot generative adaptation is to tran
   [ECCV 2022](https://arxiv.org/abs/2207.07288) / [Code](https://github.com/kobeshegu/ECCV2022_WaveGAN)
 - AMMGAN: adaptive multi-scale modulation generative adversarial network for few-shot image generation <br>
   [Applied Intelligence 2023](https://link.springer.com/article/10.1007/s10489-023-04559-8)
+- EqGAN: Feature Equalization Fusion for Few-shot Image Generation <br>
+  [ArXiv 2023](https://arxiv.org/abs/2307.14638)
 
 ### Inversion-based
 - Attribute Group Editing for Reliable Few-shot Image Generation <br>
